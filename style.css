@@ -9,11 +9,6 @@ h1 {
   color: yellow;
 }
 
-p {
-  border: 2px solid gold;
-  color: white; 
-}
-
 img {
   display: block;
   border-radius: 50%;
@@ -21,4 +16,18 @@ img {
   height: 600px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.buttons {
+  display: block;
+  font-size: 16px;
+  background-color: white;
+  color: aqua;
+  text-align: center;
+  width: 100%;
+}
+
+.buttons:hover {
+  background-color: aqua;
+  color: white;
 }
