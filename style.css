@@ -21,14 +21,14 @@ img {
 .buttons {
   display: block;
   font-size: 20px;
-  background-color: white;
-  color: aqua;
+  background-color: navy;
+  color: white;
   text-align: center;
   width: 1000px;
   border: 1px solid black;
 }
 
 .buttons:hover {
-  background-color: aqua;
-  color: white;
+  background-color: white;
+  color: navy;
 }
