@@ -4,5 +4,6 @@ body {
 }
 
 p {
+  border: 2px solid gold;
   color: white; 
 }
