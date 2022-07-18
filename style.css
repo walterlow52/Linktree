@@ -7,3 +7,7 @@ p {
   border: 2px solid gold;
   color: white; 
 }
+
+img {
+  border-radius: 50%; 
+}
