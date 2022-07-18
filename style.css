@@ -3,6 +3,11 @@ body {
   background-size: 1000px 1000px;
 }
 
+h1 {
+  font-family: courier;
+  text-align: center;
+}
+
 p {
   border: 2px solid gold;
   color: white; 
